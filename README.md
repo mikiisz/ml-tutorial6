@@ -16,7 +16,7 @@ Contributors:
     source ml6/bin/activate
     pip install -r requirements.txt
 
-    #włączenie usługi jupyter lokalnie
+    #włączenie lokalnego serwera jupyter
     jupyter-notebook
 
     #deaktywacja venva
